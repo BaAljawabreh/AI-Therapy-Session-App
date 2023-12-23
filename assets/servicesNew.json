@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "thera-bot-606dd",
+  "private_key_id": "3336173395f26306bf397c0cc00d07b523c591b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDU6EofBLurFEFu\nIe4A9IVg55hC+24yvv5qkK+pDt2hfKC9bXl2tOuoMrOQTak/SNnL9rJj+eRbMRDD\n2kpBbddSOgx2JXLzEFVXyGVaIsvIHEGbNYm+5jxngY2PcauuIpq+YtdDPD1LQctm\ncJfcgKZ7foILHApYNgf3t6WhZoEmPEDu/NOmcrkoiOA6OTEjbuKC/fi9b1/sFVNx\nqOX34z9DUqYAR95r0bU/smWodhDWuZkrrtz8RYaacqdS4Y1c98CYzRl9e8qGkxW+\nYI7DHe/yv2968HbnOqqgit59luuTHl6TJLJU9Td6og+hpPNDqPgItQdVJG+RlhWR\nLr9Ixnv/AgMBAAECggEACp6vm857ofP3s4ujuI553LSQpr6t54AZZq1i5bblHTn/\nNpOwXFh37MLirA8DozF6E69xhIUhe979rBdGXu8gr2xP1NDXZAJrj15il9VmfsvS\nBfDstwX6+1q9+eq8mooFV/vMKwFlOUzF3Y0+NfSA2WYdDHrQlUfUq+mQLHXVeVeu\nro3ldf0rCNy28Pr2Ud/rV/TDGrGV+5FSbQ0hxCKWdBDbw9jcqxonyCwsf7sKfnxP\nxgjSAH6VlxYSCPYFi8jkTjLez6g1XX4sr0IifIn6jv8Hz7ESve7gopA8KaoeQh5f\nGydlfhsSqItlwD2a4y50fnEPjcJG/HOOIjNOzVGIkQKBgQD/oNqsxmUhC5NHR7uC\n1qxVga6xyR2+nCfXFZwdUxyl6tfR0cCELs2boLOpRVZb3ssCS0oUCKxf7PuJv7yG\nej96aJnrfi/GCXPlLRwY4l3ZeYlaT/GVdyEBFgrWB02lYDrt4oA6myjR3XousIQA\nbI0yKzkUw+Nk/N0K+RLuxJS3NwKBgQDVN4jRIhlCwFYrugk1Uk0lGHtIkC7OkG6z\nOgTje8qL+0PKBjpA8lIbeZDP+Pg4aX+uG6EA62hvTE6yhUdxt7FMIgMEc25k/ebe\nsrh1qyYesrlZAeQkeNKW3k2zRGE+WV5LDzQKSRBjw6486GiD48SjQnZjRYpIT8Qx\nsNILg561eQKBgAvBlAz6GtCIPb+7ds4vnUFZc3VNsIaBm/tyTPm0Rs8Cm+ZUZSwv\nEtmjbF/Ohog3GNMEL2X4eCT5OyA8pyjwGldA1ENWTFApQyE5D9+9GV/VDRIQNyYO\nkoAASYNKVrHSWSNzlT4cwKXWL7ZR++AhHeU+w6NG1wBf+LJ2ff5pIAXFAoGBAIgI\nn4T2oXFCL3hEgF2BvfB99yIrw4FNCyPUT4wnzemTjQOXB5GqSRJ4dBkMeqnbPXgC\n7q0chIwF/mvNtvBpx3eQd6ZeUz+h8quBEUkZwf9x/ek42KsgXxOcj6xhYz2ZXRy8\nfXJWfVt5XHBFw3DqX+ndnJTnqDtMkRs2+jwYZKjZAoGAKH9pbaz0SzaUcXFoIUOk\n31BjxrOPnCFS8IW5fHiZ8u5rhcXBYHE+JnjIjhNsxOKquPNaiLNw/Gh+7xjYhbRs\nO58V8Wb1W2JhgPLUcMWK7XFd1wyG1mFwCpwqkAayf9B5plfXk2Sepd/lTjNOJXG3\ne2bLeJ3vMXnWJD0qV89fBX4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "theranew@thera-bot-606dd.iam.gserviceaccount.com",
+  "client_id": "104394134807298109667",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/theranew%40thera-bot-606dd.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

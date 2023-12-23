@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "thera-bot-606dd",
+  "private_key_id": "f20ae6562a260cbf1ac8457edfcc54fa8d4e8642",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDIXjhXCrIcMiUI\nHTIneC4ASdx6cv6/J0gOO205QFCtzZX70gXtr9RBGmn/l7UGUQcvOryTAP1yJ4SF\n5cCbjLoYHWLaNeqCykzdqt53xgDuZGL4aHqkoV6QGLLPpPKVD5Ixa9rHlDNi+wOh\ngz0mIzuFk4CoRFVbkO74mP6eUEE7hQrD3SSE7GvkabCxBl8tZkHLosm90zGBo5EU\nFQCI4nptNQIQWUIxWo+h/3pqUYA4MpanMreYbSPxExQp38tiICNwkWorVisvF8iO\ntBWNlPWN6tmRjRJUk+LPhcQ5iBOX1XCEjldjzPCyQRO2jQko9ITkjq7my9ApVwYf\nw+paeJPFAgMBAAECggEAElckLhIhuoNRMMccs6XZrsIUBzX7y9B91SZVuZisVIm4\ncavy9KOUY1SBIQRTGB3A8W7yxZFLdwWsqOWeYJPxkXUt0A6BBZwcjBUbYaLuATmO\ny5vN+hV2m+xUKxM3TIiigkPpQJJ4ClaH/w04bYNqa9rUEH2Xbexmy2TpuDZdZOP/\nqcz1WhloFTmheTeV9HVFA+SBvyB27jIQXWs5J44vLrWj5Jz5nHFwgbONSEomSCE7\niKfG90LBTdnoNRukH1CappksNPijI+dmNJni614LLYD5HFAERqPcDi1WUt4NnQ2Z\n25TOARRcKYE+hwfJx4t+AscBwUzrSAsrcRsYHkm2cwKBgQDt+NzK5yokZBKjWsB7\nB4iKudf/orZXA4HyyQydaXv0cUCzex28iCx18LBq+oUG06RtWA6KHRV7R0chXfei\nlqMDc06jdDnrEGtHS1toAvSsRcCkEbTpy1aNnDRqoQt6utzGLh3tIiSZKYUm29vS\nvgFo6Pc8tEVG71CE+FrOl96bOwKBgQDXjBQ8uQut+PdH76w5vOBG2UhOCXb3YklA\n8T2p7DnRfOPbxsbTMMcSJ4tf/ECGlOfLC4Cgt4EzPRK8kCd3Bu60sh/4CMaKR7Ce\nT3vG9TVa55XCXUeB/Ye6cCmiP4dlC0sA3+x++RZlwCpuP0yZqI235DDTXLzksebG\nuxfGTSyc/wKBgFF+NsY5UYIyzvsn+eBn3Qd8yw5c/0pfBiJJXUuOswcrvXd5Qt6s\nV2VwLkoETofe9GEJlbkQaqnT5/TyQ/pm0Z4934E0LR1lewdoM/4zfOx92pGVCrpB\nivtlscGOMustkKtBYbgySAw3XsTG58mMjdkKZphgN5UqIQ3YKuiys2W/AoGAZYvF\nwPHAkd53yPkd3zmfQ2F8Ed+dn2A7eI/uaA41Ev9ObazQ4I/bSS8+FyNE1uJx7RNn\nLtAk2xnLqPAU15t5e8FrFDQ2LNEnYP27J3lAAKqXwDCnzpK9jdTnmFtrkuvmEuxr\ng0ogBiGpG7VQhheFZHvpkLng97DkMv3TboXPHcsCgYBvbYE1IyTMYoTZMX3r6Jvf\nYJI4tBu6OT2ttTaXeE0XBRq7D0Jg5oHU7uleILLxYJ5ffCvBjmLDgUMovE6EpWY9\nnJuj/yGNeCTwAFZ+lZ0FaPi7JbgAMMZO+e0qjG7cc61Vr/26rsnCygBYg0Dr72RJ\nlQrM5RO1LjOG9Ivm4rJgpg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "thera-bot@thera-bot-606dd.iam.gserviceaccount.com",
+  "client_id": "102117484544809992620",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/thera-bot%40thera-bot-606dd.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
